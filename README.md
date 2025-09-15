@@ -16,3 +16,11 @@ Each script can be run manually or scheduled using cron jobs.
 
 ## Author
 sachin patkari - DevOps Fresher
+
+IMAGES
+![Scripts are Running](p1.jpg)
+![Scripts are Running](p2.jpg)
+![Scripts are Running](p3.jpg)
+![Scripts are Running](p4.jpg)
+![Scripts are Running](p5.jpg)
+
